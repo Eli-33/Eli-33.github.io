@@ -30,11 +30,9 @@ The customers always want a codebase under the best and the latest standards so 
 *  GitHub - Code repository and page hosting via GitHub Pages
 *  Visual Studio Code - For editing and authoring code
 
-
-#### screenshots
-
-
-
+## Screenshot
+![Screenshot 1](https://github.com/Eli-33/Eli-33.github.io/blob/master/screenshot%201.PNG)
+![Screenshot 2](https://github.com/Eli-33/Eli-33.github.io/blob/master/screenshot%202.PNG)
 
 ### Licence
 
