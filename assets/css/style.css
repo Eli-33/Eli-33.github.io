@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* ommit the div frome the headers*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-
+ /*use same code for all class=content to make it short*/
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,6 +97,7 @@ p {
     font-size: 36px;
 }
 
+/*use same code for all class=benefites to make it short*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
